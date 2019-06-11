@@ -1,6 +1,6 @@
-owner=490871722011131935
-prefix=1
-game=1play|#PG Community
+owner=352481508419960832
+prefix=M
+game=Mplay
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTY2MzEzNTkzOTAyMDcxODA5.XP-zKg.x2jwWxtBmmIYSBfW3zT5wcszsxc
